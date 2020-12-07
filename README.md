@@ -12,3 +12,6 @@ G1.FacePinball: 在人脸上玩三维弹球<br>
 
 **小工具**<br>
 T1.FaceController: 人脸玩游戏的控制器<br>
+
+## 许可证书
+本项目的发布受<a href="https://github.com/ninetailskim/PaddleEGT/blob/master/LICENSE">MIT license</a>许可认证。
