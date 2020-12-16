@@ -2,6 +2,8 @@ aistudio项目链接: https://aistudio.baidu.com/aistudio/projectdetail/1276777
 
 预览视频: https://www.bilibili.com/video/BV1xK4y177S4
 
+需要安装paddlehub
+
 ![intro1](img/11.gif)
 ![intro2](img/11.gif)
 ![intro3](img/11.gif)

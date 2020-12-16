@@ -1,6 +1,8 @@
 aistudio项目链接: https://aistudio.baidu.com/aistudio/projectdetail/518861
 视频链接: https://www.bilibili.com/video/BV1Fv41167XM/
 
+需要安装paddlehub
+
 在人脸上玩桌面弹球，眨眼睛会操纵对应的棒子回击小球。目前还只实现了最基本的功能。
 闭眼的判定是通过计算眼睛的histgram
 小球碰撞到嘴，鼻梁，和脸部轮廓时会反弹。
